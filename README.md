@@ -1,4 +1,4 @@
-``quick`` was not working in the orginial code. Adding a hotfix to by default make the field quick.
+``quick`` was not working in the orginial code. Adding a hotfix to by default make the field ``quick``.
 
 # Search select one
 ![Default appearance for the 'search-select-one' field plug-in](extras/default-search.jpg)
