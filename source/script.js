@@ -136,6 +136,7 @@ else {
       }
       this.parentElement.classList.add('selected') // add 'selected' class to the new selected option
       change.apply(this) // call the change() function and tell it which value was selected
+      goToNextField()
     }
   }
 }
