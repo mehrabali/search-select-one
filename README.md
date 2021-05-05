@@ -15,7 +15,7 @@
 
 This field plug-in adds the ability to filter choice list options for a *select_one* field. Filter by entering search text into the search field. Also see the sibling field plug-in, [search-select_multiple](https://github.com/surveycto/search-select-multiple).
 
-[![Download now](extras/download-button.png)](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip)
+[![Download now](extras/download-button.png)](https://github.com/mehrabali/search-select-one/raw/master/search-select-one.fieldplugin.zip)
 
 ### Data Format
 This field plug-in supports the `select_one` and `select_multiple` field types.
